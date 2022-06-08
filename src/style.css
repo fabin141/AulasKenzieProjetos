@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@600&display=swap');
+.title-main{
+    text-align: center;
+    position: absolute;
+    width: 371px;
+    height: 48px;
+    left: 409px;
+    top: 32px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    padding-top: 22px;
+}
+.conteiner{
+    width: 0 auto;
+    height: 500px;
+    margin: 22px;
+    padding-top: 150px;
+    display: block;
+    
+}
+small{
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+}
+.title-main1{
+    
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+}
+.title-main1_paragrafo{
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+}
+.title-main2{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+}
+.background-blue{
+    background-color: #3662FF;;
+    color: white;
+    
+}
+.title-main3{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+}
+ol{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    margin: 33px;
+    /* or 200% */
+
+    text-decoration-line: underline;
+}
+.color-blue{
+    color: blue;
+}
+footer{
+    padding-bottom: 22px;
+}
+.text-center{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    background-color: black;
+    color: white;
+}
